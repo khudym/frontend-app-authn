@@ -30,7 +30,6 @@ import messages from '../../messages';
 const UsernameField = (props) => {
   const { formatMessage } = useIntl();
   const dispatch = useDispatch();
-  //temp commit
 
   const {
     value,
